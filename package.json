@@ -1,0 +1,20 @@
+{
+  "name": "ple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Prewishjay13/PLE.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Prewishjay13/PLE/issues"
+  },
+  "homepage": "https://github.com/Prewishjay13/PLE#readme"
+}
