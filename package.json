@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Prewishjay13/PLE/issues"
   },
-  "homepage": "https://github.com/Prewishjay13/PLE#readme"
+  "homepage": "https://github.com/Prewishjay13/PLE#readme",
+  "dependencies": {
+    "brainjs": "^0.7.4"
+  }
 }
