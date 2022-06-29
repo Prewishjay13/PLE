@@ -1,0 +1,64 @@
+[{
+    "title": "Twitter sold!",
+    "text":"Twitter was sold to Elon Musk", 
+    "url": "www.meme.com", 
+    "category": "fake"
+},
+{
+    "title": "trump is smart",
+    "text":"trump decides not to run for presidency", 
+    "url": "www.twitter.com",
+    "category": "fake"
+}, {
+    "title": "Elon Musk buys twitter",
+    "text":"Elon Musk has finally bought twitter after months of back and forths", 
+    "url": "www.meme.com",
+    "category": "fake"
+},{
+    "title": "Tesla stocks drop",
+    "text":"Tesla's stocks have dropped", 
+    "url": "www.twitter.com",
+    "category": "fake"
+}, {
+    "title": "Elon Musk",
+    "text":"Elon Musk says he likes burgers", 
+    "url": "www.rumor.com",
+    "category": "fake"
+}, 
+{
+    "title": "Donald Trump",
+    "text":"Donald trump says fox news is fake news", 
+    "url": "www.rumor.com",
+    "category": "fake"
+},
+{
+    "title": "Vegetables",
+    "text": "Vegetables are Healthy", 
+    "url": "www.health.com",
+    "category": "accurate"
+},
+{
+    "title": "nutrition",
+"text": "Nutrients are important for us to stay healthy", 
+"url": "www.health.com",
+"category": "accurate"
+},
+{
+    "title":"Food",
+    "text": "Food is important for us to stay healthy and strong", 
+    "url": "www.health.com",
+    "category": "accurate"
+},
+{
+    "title": "excercise",
+    "text": "excercise is needed to become physically stronger", 
+    "url": "www.health.com",
+    "category": "accurate"
+},
+{
+    "title": "running",
+    "text": "Running helps to keep the heart strong and is good excercise", 
+    "url": "www.health.com",
+    "category": "accurate"
+}
+]
